@@ -1,9 +1,11 @@
+GIT Bash
 1. To copy repository on local machine
 	git clone https://github.com/Karanjot1506/fundamentals-of-python.git
 2. Move to the repository folder 
 	cd fundamentals-of-python
 3. Check status
 	git status
+	git pull
 
 4. Add File to save to remote server
 	git add <file name>
